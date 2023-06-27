@@ -261,7 +261,7 @@ body {
   img:hover{
   
     transform: scale(10);
-      top: 210px;
+    top: 210px;
     left: 210px;
-    
+    z-index:5;
   }
